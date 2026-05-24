@@ -40,4 +40,4 @@ jobs:
         with:
           name: Vitest Results
           path: junit.xml
-          reporter: java-junit # dorny/test-reporter 用 java-junit 來解析標準的 JUnit XML
+          reporter: java-junit
